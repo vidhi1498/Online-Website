@@ -1,0 +1,13 @@
+.cover{
+        text-align:right;
+        top:50;
+      }
+ .cover1{
+        text-align:right;
+        top:60;
+      }     
+      .button{
+        position:absolute;
+        top:20%;
+        right:5%;
+      }
